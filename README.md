@@ -111,8 +111,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
-
-**Your Name**
+**Shazim Javed**
 - GitHub: [Shazim Javed](https://github.com/shazimjaved)
 - LinkedIn: [Shazim Javed](https://linkedin.com/in/shazimjaved)
 
@@ -125,4 +124,5 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 ⭐ If you found this project helpful, please give it a star!
+
 
