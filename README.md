@@ -113,8 +113,8 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [Shazim Javed](https://github.com/shazimjaved)
+- LinkedIn: [Shazim Javed](https://linkedin.com/in/shazimjaved)
 
 ## 🙏 Acknowledgments
 
@@ -125,3 +125,4 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 ⭐ If you found this project helpful, please give it a star!
+
